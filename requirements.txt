@@ -1,0 +1,4 @@
+intel-npu-acceleration-library
+numpy
+torch
+transformers>=4.43.0
